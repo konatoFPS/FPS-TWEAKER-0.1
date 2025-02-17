@@ -1,2 +1,3 @@
 # FPS-TWEAKER-0.1
-Otimizador facil de windows, registro da regedit e nvidia painel
+
+Sempre crie um ponto de restauração, caso não esteja de agrado as configurações que foram aplicadas.
