@@ -159,7 +159,14 @@ class WindowsOptimizer:
             print(f"Erro ao otimizar configurações: {e}")
 
 def main():
-    print("=== Otimizador Windows & NVIDIA ===")
+    width = 120  # Largura total da tela do console
+    print("=" * width)
+    print("Windows & NVIDIA Optimizer".center(width))
+    print("Copyright © 2024".center(width))
+    print("Feito por Konato".center(width))
+    print("Todos os direitos reservados".center(width))
+    print("=" * width)
+    
     optimizer = WindowsOptimizer()
     
     while True:
